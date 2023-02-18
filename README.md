@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andrey Fedyakov
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning Java, web-development
-- 💞️ I’m working in GlowByte Consulting for one year
+- 💞️ I’m working in GlowByte Consulting for two year
 - 📫 How to reach me - ya.andreyfedyakov@yandex.ru
 
 <!---
